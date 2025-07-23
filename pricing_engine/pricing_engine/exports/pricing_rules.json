@@ -1,0 +1,2431 @@
+{
+  "pricing_rules": {
+    "Tel Aviv, 50-80 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0000",
+      "generated_date": "2025-07-23T13:15:23.114246"
+    },
+    "Tel Aviv, 50-80 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0001",
+      "generated_date": "2025-07-23T13:15:23.115382"
+    },
+    "Tel Aviv, 50-80 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0002",
+      "generated_date": "2025-07-23T13:15:23.116690"
+    },
+    "Tel Aviv, 50-80 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0003",
+      "generated_date": "2025-07-23T13:15:23.118478"
+    },
+    "Tel Aviv, 80-100 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0004",
+      "generated_date": "2025-07-23T13:15:23.119440"
+    },
+    "Tel Aviv, 80-100 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0005",
+      "generated_date": "2025-07-23T13:15:23.120384"
+    },
+    "Tel Aviv, 80-100 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0006",
+      "generated_date": "2025-07-23T13:15:23.121464"
+    },
+    "Tel Aviv, 80-100 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0007",
+      "generated_date": "2025-07-23T13:15:23.129658"
+    },
+    "Tel Aviv, 100-120 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0008",
+      "generated_date": "2025-07-23T13:15:23.133919"
+    },
+    "Tel Aviv, 100-120 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0009",
+      "generated_date": "2025-07-23T13:15:23.135677"
+    },
+    "Tel Aviv, 100-120 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0010",
+      "generated_date": "2025-07-23T13:15:23.137001"
+    },
+    "Tel Aviv, 100-120 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0011",
+      "generated_date": "2025-07-23T13:15:23.138059"
+    },
+    "Tel Aviv, 120-150 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0012",
+      "generated_date": "2025-07-23T13:15:23.139336"
+    },
+    "Tel Aviv, 120-150 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0013",
+      "generated_date": "2025-07-23T13:15:23.140814"
+    },
+    "Tel Aviv, 120-150 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0014",
+      "generated_date": "2025-07-23T13:15:23.141851"
+    },
+    "Tel Aviv, 120-150 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0015",
+      "generated_date": "2025-07-23T13:15:23.142894"
+    },
+    "Tel Aviv, 150-200 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0016",
+      "generated_date": "2025-07-23T13:15:23.143790"
+    },
+    "Tel Aviv, 150-200 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0017",
+      "generated_date": "2025-07-23T13:15:23.144978"
+    },
+    "Tel Aviv, 150-200 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0018",
+      "generated_date": "2025-07-23T13:15:23.146221"
+    },
+    "Tel Aviv, 150-200 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0019",
+      "generated_date": "2025-07-23T13:15:23.147182"
+    },
+    "Tel Aviv, 50-80 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0020",
+      "generated_date": "2025-07-23T13:15:23.148080"
+    },
+    "Tel Aviv, 50-80 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0021",
+      "generated_date": "2025-07-23T13:15:23.149119"
+    },
+    "Tel Aviv, 50-80 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0022",
+      "generated_date": "2025-07-23T13:15:23.151226"
+    },
+    "Tel Aviv, 50-80 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0023",
+      "generated_date": "2025-07-23T13:15:23.152156"
+    },
+    "Tel Aviv, 80-100 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0024",
+      "generated_date": "2025-07-23T13:15:23.153247"
+    },
+    "Tel Aviv, 80-100 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0025",
+      "generated_date": "2025-07-23T13:15:23.154319"
+    },
+    "Tel Aviv, 80-100 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0026",
+      "generated_date": "2025-07-23T13:15:23.155576"
+    },
+    "Tel Aviv, 80-100 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0027",
+      "generated_date": "2025-07-23T13:15:23.156754"
+    },
+    "Tel Aviv, 100-120 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0028",
+      "generated_date": "2025-07-23T13:15:23.157704"
+    },
+    "Tel Aviv, 100-120 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0029",
+      "generated_date": "2025-07-23T13:15:23.158635"
+    },
+    "Tel Aviv, 100-120 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0030",
+      "generated_date": "2025-07-23T13:15:23.159724"
+    },
+    "Tel Aviv, 100-120 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0031",
+      "generated_date": "2025-07-23T13:15:23.161726"
+    },
+    "Tel Aviv, 120-150 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0032",
+      "generated_date": "2025-07-23T13:15:23.162629"
+    },
+    "Tel Aviv, 120-150 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0033",
+      "generated_date": "2025-07-23T13:15:23.163589"
+    },
+    "Tel Aviv, 120-150 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0034",
+      "generated_date": "2025-07-23T13:15:23.164659"
+    },
+    "Tel Aviv, 120-150 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0035",
+      "generated_date": "2025-07-23T13:15:23.175349"
+    },
+    "Tel Aviv, 150-200 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0036",
+      "generated_date": "2025-07-23T13:15:23.176537"
+    },
+    "Tel Aviv, 150-200 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0037",
+      "generated_date": "2025-07-23T13:15:23.177550"
+    },
+    "Tel Aviv, 150-200 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0038",
+      "generated_date": "2025-07-23T13:15:23.178444"
+    },
+    "Tel Aviv, 150-200 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Tel Aviv",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0039",
+      "generated_date": "2025-07-23T13:15:23.179328"
+    },
+    "Jerusalem, 50-80 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0040",
+      "generated_date": "2025-07-23T13:15:23.180357"
+    },
+    "Jerusalem, 50-80 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0041",
+      "generated_date": "2025-07-23T13:15:23.181964"
+    },
+    "Jerusalem, 50-80 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0042",
+      "generated_date": "2025-07-23T13:15:23.182902"
+    },
+    "Jerusalem, 50-80 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0043",
+      "generated_date": "2025-07-23T13:15:23.183774"
+    },
+    "Jerusalem, 80-100 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0044",
+      "generated_date": "2025-07-23T13:15:23.184683"
+    },
+    "Jerusalem, 80-100 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0045",
+      "generated_date": "2025-07-23T13:15:23.189199"
+    },
+    "Jerusalem, 80-100 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0046",
+      "generated_date": "2025-07-23T13:15:23.190143"
+    },
+    "Jerusalem, 80-100 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0047",
+      "generated_date": "2025-07-23T13:15:23.191032"
+    },
+    "Jerusalem, 100-120 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0048",
+      "generated_date": "2025-07-23T13:15:23.191924"
+    },
+    "Jerusalem, 100-120 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0049",
+      "generated_date": "2025-07-23T13:15:23.192877"
+    },
+    "Jerusalem, 100-120 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0050",
+      "generated_date": "2025-07-23T13:15:23.193993"
+    },
+    "Jerusalem, 100-120 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0051",
+      "generated_date": "2025-07-23T13:15:23.195212"
+    },
+    "Jerusalem, 120-150 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0052",
+      "generated_date": "2025-07-23T13:15:23.196187"
+    },
+    "Jerusalem, 120-150 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0053",
+      "generated_date": "2025-07-23T13:15:23.198462"
+    },
+    "Jerusalem, 120-150 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0054",
+      "generated_date": "2025-07-23T13:15:23.200161"
+    },
+    "Jerusalem, 120-150 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0055",
+      "generated_date": "2025-07-23T13:15:23.201198"
+    },
+    "Jerusalem, 150-200 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0056",
+      "generated_date": "2025-07-23T13:15:23.202196"
+    },
+    "Jerusalem, 150-200 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0057",
+      "generated_date": "2025-07-23T13:15:23.203101"
+    },
+    "Jerusalem, 150-200 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0058",
+      "generated_date": "2025-07-23T13:15:23.204318"
+    },
+    "Jerusalem, 150-200 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0059",
+      "generated_date": "2025-07-23T13:15:23.205253"
+    },
+    "Jerusalem, 50-80 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0060",
+      "generated_date": "2025-07-23T13:15:23.206144"
+    },
+    "Jerusalem, 50-80 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0061",
+      "generated_date": "2025-07-23T13:15:23.207809"
+    },
+    "Jerusalem, 50-80 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0062",
+      "generated_date": "2025-07-23T13:15:23.210851"
+    },
+    "Jerusalem, 50-80 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0063",
+      "generated_date": "2025-07-23T13:15:23.211769"
+    },
+    "Jerusalem, 80-100 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0064",
+      "generated_date": "2025-07-23T13:15:23.212733"
+    },
+    "Jerusalem, 80-100 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0065",
+      "generated_date": "2025-07-23T13:15:23.213807"
+    },
+    "Jerusalem, 80-100 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0066",
+      "generated_date": "2025-07-23T13:15:23.215013"
+    },
+    "Jerusalem, 80-100 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0067",
+      "generated_date": "2025-07-23T13:15:23.215884"
+    },
+    "Jerusalem, 100-120 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0068",
+      "generated_date": "2025-07-23T13:15:23.216921"
+    },
+    "Jerusalem, 100-120 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0069",
+      "generated_date": "2025-07-23T13:15:23.217841"
+    },
+    "Jerusalem, 100-120 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0070",
+      "generated_date": "2025-07-23T13:15:23.221868"
+    },
+    "Jerusalem, 100-120 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0071",
+      "generated_date": "2025-07-23T13:15:23.222813"
+    },
+    "Jerusalem, 120-150 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0072",
+      "generated_date": "2025-07-23T13:15:23.223829"
+    },
+    "Jerusalem, 120-150 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0073",
+      "generated_date": "2025-07-23T13:15:23.225073"
+    },
+    "Jerusalem, 120-150 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0074",
+      "generated_date": "2025-07-23T13:15:23.225988"
+    },
+    "Jerusalem, 120-150 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0075",
+      "generated_date": "2025-07-23T13:15:23.226876"
+    },
+    "Jerusalem, 150-200 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0076",
+      "generated_date": "2025-07-23T13:15:23.227689"
+    },
+    "Jerusalem, 150-200 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0077",
+      "generated_date": "2025-07-23T13:15:23.228857"
+    },
+    "Jerusalem, 150-200 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0078",
+      "generated_date": "2025-07-23T13:15:23.230032"
+    },
+    "Jerusalem, 150-200 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Jerusalem",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0079",
+      "generated_date": "2025-07-23T13:15:23.230859"
+    },
+    "Haifa, 50-80 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0080",
+      "generated_date": "2025-07-23T13:15:23.231678"
+    },
+    "Haifa, 50-80 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0081",
+      "generated_date": "2025-07-23T13:15:23.232581"
+    },
+    "Haifa, 50-80 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0082",
+      "generated_date": "2025-07-23T13:15:23.233659"
+    },
+    "Haifa, 50-80 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0083",
+      "generated_date": "2025-07-23T13:15:23.234793"
+    },
+    "Haifa, 80-100 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0084",
+      "generated_date": "2025-07-23T13:15:23.235662"
+    },
+    "Haifa, 80-100 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0085",
+      "generated_date": "2025-07-23T13:15:23.236743"
+    },
+    "Haifa, 80-100 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0086",
+      "generated_date": "2025-07-23T13:15:23.237641"
+    },
+    "Haifa, 80-100 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0087",
+      "generated_date": "2025-07-23T13:15:23.238622"
+    },
+    "Haifa, 100-120 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0088",
+      "generated_date": "2025-07-23T13:15:23.239723"
+    },
+    "Haifa, 100-120 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0089",
+      "generated_date": "2025-07-23T13:15:23.249064"
+    },
+    "Haifa, 100-120 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0090",
+      "generated_date": "2025-07-23T13:15:23.250428"
+    },
+    "Haifa, 100-120 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0091",
+      "generated_date": "2025-07-23T13:15:23.253118"
+    },
+    "Haifa, 120-150 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0092",
+      "generated_date": "2025-07-23T13:15:23.255277"
+    },
+    "Haifa, 120-150 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0093",
+      "generated_date": "2025-07-23T13:15:23.256725"
+    },
+    "Haifa, 120-150 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0094",
+      "generated_date": "2025-07-23T13:15:23.258105"
+    },
+    "Haifa, 120-150 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0095",
+      "generated_date": "2025-07-23T13:15:23.259821"
+    },
+    "Haifa, 150-200 m², Apartment, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0096",
+      "generated_date": "2025-07-23T13:15:23.272978"
+    },
+    "Haifa, 150-200 m², Apartment, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0097",
+      "generated_date": "2025-07-23T13:15:23.276734"
+    },
+    "Haifa, 150-200 m², Apartment, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0098",
+      "generated_date": "2025-07-23T13:15:23.278584"
+    },
+    "Haifa, 150-200 m², Apartment, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "Apartment",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0099",
+      "generated_date": "2025-07-23T13:15:23.279957"
+    },
+    "Haifa, 50-80 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0100",
+      "generated_date": "2025-07-23T13:15:23.281298"
+    },
+    "Haifa, 50-80 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0101",
+      "generated_date": "2025-07-23T13:15:23.283968"
+    },
+    "Haifa, 50-80 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0102",
+      "generated_date": "2025-07-23T13:15:23.285498"
+    },
+    "Haifa, 50-80 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "50-80 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0103",
+      "generated_date": "2025-07-23T13:15:23.286959"
+    },
+    "Haifa, 80-100 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0104",
+      "generated_date": "2025-07-23T13:15:23.288758"
+    },
+    "Haifa, 80-100 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0105",
+      "generated_date": "2025-07-23T13:15:23.295376"
+    },
+    "Haifa, 80-100 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0106",
+      "generated_date": "2025-07-23T13:15:23.296543"
+    },
+    "Haifa, 80-100 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "80-100 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0107",
+      "generated_date": "2025-07-23T13:15:23.297481"
+    },
+    "Haifa, 100-120 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0108",
+      "generated_date": "2025-07-23T13:15:23.298340"
+    },
+    "Haifa, 100-120 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0109",
+      "generated_date": "2025-07-23T13:15:23.299160"
+    },
+    "Haifa, 100-120 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0110",
+      "generated_date": "2025-07-23T13:15:23.300030"
+    },
+    "Haifa, 100-120 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "100-120 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0111",
+      "generated_date": "2025-07-23T13:15:23.301707"
+    },
+    "Haifa, 120-150 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0112",
+      "generated_date": "2025-07-23T13:15:23.302634"
+    },
+    "Haifa, 120-150 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0113",
+      "generated_date": "2025-07-23T13:15:23.303465"
+    },
+    "Haifa, 120-150 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0114",
+      "generated_date": "2025-07-23T13:15:23.304429"
+    },
+    "Haifa, 120-150 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "120-150 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0115",
+      "generated_date": "2025-07-23T13:15:23.305640"
+    },
+    "Haifa, 150-200 m², House, Floor 1-2": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "1-2"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0116",
+      "generated_date": "2025-07-23T13:15:23.310916"
+    },
+    "Haifa, 150-200 m², House, Floor 3-5": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "3-5"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0117",
+      "generated_date": "2025-07-23T13:15:23.312027"
+    },
+    "Haifa, 150-200 m², House, Floor 6-10": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "6-10"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0118",
+      "generated_date": "2025-07-23T13:15:23.313472"
+    },
+    "Haifa, 150-200 m², House, Floor 11-20": {
+      "segment": {
+        "city": "Haifa",
+        "property_type": "House",
+        "size_range": "150-200 m²",
+        "floor_range": "11-20"
+      },
+      "pricing": {
+        "recommended_price_per_m2": 33007.0,
+        "price_range": {
+          "min": 32048.0,
+          "max": 33965.0
+        },
+        "confidence_interval": 958.0,
+        "currency": "₪"
+      },
+      "rule_formatted": "₪33,007/m²",
+      "rule_id": "RULE_0119",
+      "generated_date": "2025-07-23T13:15:23.314431"
+    }
+  },
+  "metadata": {
+    "total_rules": 120,
+    "generation_date": "2025-07-23T13:15:23.314435",
+    "model_version": "2025-07-23T13:14:16.400588",
+    "cities_covered": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa"
+    ],
+    "property_types_covered": [
+      "Apartment",
+      "House"
+    ],
+    "size_ranges_covered": [
+      "50-80",
+      "80-100",
+      "100-120",
+      "120-150",
+      "150-200"
+    ],
+    "floor_ranges_covered": [
+      "1-2",
+      "3-5",
+      "6-10",
+      "11-20"
+    ]
+  }
+}

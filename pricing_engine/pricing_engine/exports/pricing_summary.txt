@@ -1,0 +1,142 @@
+PRICING ENGINE - PRICING RULES SUMMARY
+==================================================
+
+Generated: 2025-07-23T13:15:23.314435
+Model Version: 2025-07-23T13:14:16.400588
+Total Rules: 120
+
+
+TEL AVIV
+--------
+  Apartment | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  House | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  House | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  House | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  House | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  House | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  House | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  House | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  House | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  House | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  House | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  House | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  House | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  House | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  House | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  House | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  House | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  House | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  House | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  House | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  House | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  Average: ₪33,007/m²
+  Range: ₪33,007 - ₪33,007/m²
+
+JERUSALEM
+---------
+  Apartment | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  House | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  House | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  House | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  House | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  House | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  House | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  House | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  House | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  House | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  House | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  House | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  House | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  House | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  House | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  House | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  House | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  House | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  House | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  House | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  House | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  Average: ₪33,007/m²
+  Range: ₪33,007 - ₪33,007/m²
+
+HAIFA
+-----
+  Apartment | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  Apartment | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  House | 50-80 m² | Floor 1-2 | ₪33,007/m²
+  House | 50-80 m² | Floor 3-5 | ₪33,007/m²
+  House | 50-80 m² | Floor 6-10 | ₪33,007/m²
+  House | 50-80 m² | Floor 11-20 | ₪33,007/m²
+  House | 80-100 m² | Floor 1-2 | ₪33,007/m²
+  House | 80-100 m² | Floor 3-5 | ₪33,007/m²
+  House | 80-100 m² | Floor 6-10 | ₪33,007/m²
+  House | 80-100 m² | Floor 11-20 | ₪33,007/m²
+  House | 100-120 m² | Floor 1-2 | ₪33,007/m²
+  House | 100-120 m² | Floor 3-5 | ₪33,007/m²
+  House | 100-120 m² | Floor 6-10 | ₪33,007/m²
+  House | 100-120 m² | Floor 11-20 | ₪33,007/m²
+  House | 120-150 m² | Floor 1-2 | ₪33,007/m²
+  House | 120-150 m² | Floor 3-5 | ₪33,007/m²
+  House | 120-150 m² | Floor 6-10 | ₪33,007/m²
+  House | 120-150 m² | Floor 11-20 | ₪33,007/m²
+  House | 150-200 m² | Floor 1-2 | ₪33,007/m²
+  House | 150-200 m² | Floor 3-5 | ₪33,007/m²
+  House | 150-200 m² | Floor 6-10 | ₪33,007/m²
+  House | 150-200 m² | Floor 11-20 | ₪33,007/m²
+  Average: ₪33,007/m²
+  Range: ₪33,007 - ₪33,007/m²
